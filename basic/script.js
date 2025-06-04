@@ -8,7 +8,7 @@ gsap.to("#box",{
     repeat:Infinity,
     yoyo:true
 })
-//to-when trying to reach from initaial to final vice versa for form
+//to-when trying to reach from initaial to final vice versa for from
 gsap.from("#box2",{
     x:1000,
     y:100,
