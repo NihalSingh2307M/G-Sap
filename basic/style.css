@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    /* display: flex; */
+    font-family: system-ui, sans-serif;
+    font-size: 16px;
+    /* line-height: 1.5; */
+    color: #222;
+    background: #070707;
+    /* justify-content: center;
+    align-items: center; */
+}
+#box{
+    height: 300px;
+    width: 300px;
+    background-color:whitesmoke;
+    /* border-radius: 20%; */
+     
+    
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(120, 21, 40);
+    /* border-radius: 50%; */
+     
+    
+}
