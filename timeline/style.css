@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+   display: flex;
+   justify-content: space-between;
+   flex-direction: column;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #020202;
+    color: #e9baba;   
+}
+
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: tomato;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(30, 187, 16);
+}
+#box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(9, 53, 252);
+}
